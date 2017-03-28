@@ -1,0 +1,51 @@
+body {
+  background-color: #848484;
+}
+
+main {
+  color: #BDBDBD;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: #BDBDBD;
+  margin-left: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+}
+
+#register {
+  background-color: #442f2f;
+  margin: auto;
+  color: #8c8c8c;
+  height: 300px;
+  width: 80%;
+  border: 5px solid #8e8d8d;
+  border-radius: 20px;
+  padding: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* unvisited link */
+a:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #A4A4A4;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: #A4A4A4;
+    text-decoration: none;
+}
